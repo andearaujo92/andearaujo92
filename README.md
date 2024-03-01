@@ -23,15 +23,8 @@ Atualmente estou me aprofundando em Machine Learning conhecendo os bastidores de
 
 ## 📊 Principais projetos
 
-## [Clusterização de clientes](/Portfollio-Data-science/customer-clusterizatio-eda-k-means.ipynb)
-
-## [Predição de preços de Laptops](/Portfollio-Data-science/laptop-price-prediction.ipynb)
-
-## [Predição de insônia de pacientes](/Portfollio-Data-science/sleep-disorder-prediction-grad-boosting-vs-svm.ipynb)
-
-## [Predição de promoção de funcionário](/Portfollio-Data-science/hr-prediction-of-promotion-complete-pipeline.ipynb)
-
-## [Modelagem de dados](/Modelagem-de-Dados)
+## [Portfólio de Data Science](https://github.com/andearaujo92/Portfollio-Data-science.git)
+Siga o README
 
 ## [Projetos de Business Intelligence](https://sites.google.com/view/underbi-portfolio/portf%C3%B3lio#h.johzgqsrdlqd)
 
