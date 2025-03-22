@@ -35,7 +35,7 @@ Portfólio que hospedo os Projetos totalmente conectados com Business executados
 Nesse site disponibilizo meu currículo completo, incluindo meus projetos de Power BI
 
 ## [Projeto de Modelagem de dados SQL](https://github.com/andearaujo92/Modelagem-de-Dados.git)
-Nesse projeto, projetei e criei um banco de dados do zero, com a divisão de uma tabela do Kaggle em tabelas fato e dimensão.
+Nesse projeto, projetei um pequeno data warehouse local do zero, com a divisão de uma tabela do Kaggle em tabelas fato e dimensão.
 Fiz o tratamento e a ingestão dos dados através da linguagem Python.
 
 
